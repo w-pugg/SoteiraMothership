@@ -1,1 +1,3 @@
-This is a dummy
+The **Soteira** *(named after the Greek feminine epithet meaning "Saviour", "Deliverer", or "Preserver")* is a colossal generation-class vessel owned by the Peregrine Group. The vessel was initially commissioned to conduct long-term scientific tracking, apprehension, and research tasks deep in the far-space on exotic extraterrestrial life for potentially competitive technological, commercial, and – ultimately – prestigious investor gains.  
+  
+Over the course of four decades, the Soteira would vanish and reappear for several years at a time with each *expedition* vowing to delve further than the last.
