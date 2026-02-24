@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "53685b650f5a9aa5",
+        "id": "b1322bd3ebbae9b1",
         "type": "tabs",
         "children": [
           {
-            "id": "54360b9c7d555452",
+            "id": "f6a04cd0cc36daa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Far-Space.md",
+                "file": "The Soteira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Far-Space"
-            }
-          },
-          {
-            "id": "fd41cb24d7058e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soteira.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soteira"
+              "title": "The Soteira"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd41cb24d7058e78",
+  "active": "f6a04cd0cc36daa8",
   "lastOpenFiles": [
+    "Peregrine Group.md",
+    "The Soteira.md",
     "Far-Space.md",
+    "Untitled.md",
     "Index.md",
-    "Tags",
-    "Soteira.md"
+    "Tags"
   ]
 }
