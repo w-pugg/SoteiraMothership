@@ -1,0 +1,15 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Index.md",
+        "Soteira.md",
+        "Far-Space.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "bottom"
+}
