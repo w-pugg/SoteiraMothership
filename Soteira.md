@@ -19,14 +19,14 @@ As much of a financial gargantuan Peregrine Group may be, several decades of ser
 
 As the years passed, the companies now associated with Soteira and her sister ships would come to see the value of an unpoliced, relatively-off-the-books testing grounds skirting the edges of the far-space. The sorts of ethically questionable things you couldn’t get away with even on an X-Class planet could be realised on **Soteira** and that was an exciting prospect for many pragmatic scholars. As long as invoices were paid in full, conflict between competing divisions remained off-ship, Peregrine Group was not concerned about what happens aboard its vessels.
 
-## Current Tenure as a Cruise Ship
 ---
+## Current Tenure as a Cruise Ship
 Following a short period in which Soteira was used exclusively as a mobile research vessel, a group of partners would float the requirement for live human testing aboard the ship. This need was met with paid volunteers that signed up for specific experiments. This would suffice for a short while, however, many of the partners couldn’t justify the spending and proposed the less ethical method of buying prisoners, or acquiring slaves without any strings attached. While most would agree to this plan, as they were already conducting lawfully vague undertakings anyway, select partners such as Omen Synthetics would object for reasons others would describe “airy-fairy”.
 
 Prolonged debate ended with the resolution they would market the Soteira as a long-stay luxury cruise. This would offer “guests” the opportunity to visit the enormity of far-space in person and to tour the amenities of the ship, including dummies of the numerous research and development spaces. 
 
-## List of Partners Aboard Soteira
 ---
+## List of Partners Aboard Soteira
 - [[Cryogenerics]] - *Cryogenic Systems Engineering*
 >Cryogenerics’ research team is currently testing the efficacy of new bulk-freeze technologies to maintain higher volumes of cryogenically frozen beings in closer proximity with variable environmental conditions.
 - [[Omen Synthetics]] - *Synthetic Research and Development*
@@ -36,7 +36,7 @@ Prolonged debate ended with the resolution they would market the Soteira as a lo
 - [[GROGHOG]] - *Brewing Company*
 > GROGHOG brews eccentric alcoholic craft beverages. Their research division stationed on Soteira is primarily focused on augmenting their products with new and exciting stimulants.
 - [[Sleepr]] - *Neuroscience & Cloud-Compute Services*
-> Sleeper advertises itself to the less-well-off as a sleep and wellness service specialising in therapy and relaxation methods. What the many who fail to read the EULA miss is the component where they use your brain power to run their cloud compute services that many major mega-corporations utilise.
+> Sleeper advertises itself to the less-well-off as a sleep and wellness service specialising in therapy and relaxation methods. What the many who fail to read the EULA miss is where they use your brain activity to power their cloud compute services that many major mega-corporations heavily utilize.
 - [[Verdure Bio]] - *Xenobiology and Genetics Researchers*
 > Through a mix of funding, proprietary prototype technology, and the right people in the right places, Soteira and her sister ships are able to venture deeper into the far-space than any spacecraft available to the common man — Verdure is interested in what could be flourishing in the great darkness beyond. 
 - [[Yamaha Corp.]] - *Diverse Manufacturer (Experimental Firearms Division)*
