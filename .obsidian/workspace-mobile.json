@@ -4,49 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "8348395c5b10f486",
+        "id": "d85055484d7e25d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2278acc181920f82",
+            "id": "79cb0bd8973bb1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessee Manifest.md",
+                "file": "K780D-4YM Disassembler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lessee Manifest"
+              "title": "K780D-4YM Disassembler"
             }
           },
           {
-            "id": "66fe34c3d40dce16",
+            "id": "f59f561bd9cf9fa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Far-Space.md",
+                "file": "ST-10 Staple Gun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Far-Space"
+              "title": "ST-10 Staple Gun"
             }
           },
           {
-            "id": "c4de278748ab5cd9",
+            "id": "b5361cfe970e14e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Soteira.md",
+                "file": "ST-12 C-FOAM Dispenser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Soteira"
+              "title": "ST-12 C-FOAM Dispenser"
             }
           }
         ],
@@ -172,6 +172,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Templates/Technology Template.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -199,9 +200,19 @@
           "icon": "dices",
           "title": "Dice Tray"
         }
+      },
+      {
+        "id": "b46b2d075b41c049",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {},
+          "icon": "history",
+          "title": "History"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,18 +223,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c4de278748ab5cd9",
+  "active": "b5361cfe970e14e9",
   "lastOpenFiles": [
-    "Peregrine Group.md",
-    "The Soteira.md",
-    "Lessee Manifest.md",
-    "Far-Space.md",
-    "Soteira.md",
+    "ST-10 Staple Gun.md",
+    "ST-12 C-FOAM Dispenser.md",
+    "K780D-4YM Disassembler.md",
+    "Templates/Firearm Template.md",
+    "Templates/Melee Weapon Template.md",
+    "Templates/Organisation Profile Template.md",
+    "Templates/Technology Template.md",
+    "2026-02-26.md",
     "Index.md",
+    "Soteira.md",
+    "Bases",
+    "Templates",
+    "Sleepr.md",
+    "Peregrine Group.md",
+    "Lessee Manifest.md",
     "/The Soteira.md",
+    "Far-Space.md",
     "/Index.md",
     "/Far-Space.md"
   ]

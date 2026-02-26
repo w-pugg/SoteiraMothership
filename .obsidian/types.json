@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "corporations": "multitext",
+    "people": "multitext",
+    "categories": "multitext",
+    "Price": "text",
+    "as": "datetime",
+    "Proprietor": "multitext",
+    "Designer": "multitext",
+    "created": "date",
+    "Wound Type": "multitext",
+    "Range": "multitext"
+  }
+}

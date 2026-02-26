@@ -3,10 +3,28 @@
     "/": {
       "children": [
         "Index.md",
-        "The Soteira.md",
+        "Bases",
+        "Templates",
+        "Soteira.md",
         "Peregrine Group.md",
         "Far-Space.md",
-        "Roster.md"
+        "Lessee Manifest.md",
+        "K780D-4YM Disassembler.md",
+        "ST-10 Staple Gun.md",
+        "ST-12 C-FOAM Dispenser.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Bases": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Templates": {
+      "children": [
+        "Templates/Organisation Profile Template.md",
+        "Templates/Melee Weapon Template.md",
+        "Templates/Firearm Template.md",
+        "Templates/Technology Template.md"
       ],
       "sortOrder": "custom"
     }
