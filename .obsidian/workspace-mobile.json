@@ -49,8 +49,7 @@
               "title": "ST-12 C-FOAM Dispenser"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +211,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +226,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b5361cfe970e14e9",
+  "active": "79cb0bd8973bb1ed",
   "lastOpenFiles": [
-    "ST-10 Staple Gun.md",
     "ST-12 C-FOAM Dispenser.md",
+    "ST-10 Staple Gun.md",
     "K780D-4YM Disassembler.md",
     "Templates/Firearm Template.md",
     "Templates/Melee Weapon Template.md",
