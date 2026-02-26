@@ -3,7 +3,7 @@ categories:
   - "[[Weapon]]"
 Damage:
 Wound Type:
-Price:
+Price (cr):
 tags:
   - Melee
 created: 2026-02-26
@@ -14,4 +14,4 @@ Manufacturer:
 
 
 ---
-# Special
+# Rulings

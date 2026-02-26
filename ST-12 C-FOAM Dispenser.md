@@ -8,7 +8,7 @@ Shots: "5"
 Wound Type:
   - "[[Blunt Force]]"
   - "[[Bleeding]]"
-Price: 1,200cr
+Price (cr): 1,200cr
 tags:
   - Firearm
   - Utility
@@ -20,7 +20,7 @@ Manufacturer: "[[Stitch’d]]"
 > \- Front page of the ST-12 C-FOAM Dispenser Manual
 
 ---
-# Special 
+# Rulings
 Shoots globs of carbon-infused foam, expanding rapidly and solidifying within seconds upon contact.
 Each glob weighs approximately 3 kilograms, and forms spherical volumes roughly 15cm in diameter at full expansion.
 A target struck with a C-FOAM glob must make a **Body Save \[-]** or become pinned. *(**Strength Check \[-]** to escape).*

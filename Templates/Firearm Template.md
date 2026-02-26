@@ -5,7 +5,7 @@ Range:
 Damage:
 Shots:
 Wound Type:
-Price:
+Price (cr):
 tags:
   - Firearm
 created: 2026-02-26
@@ -15,4 +15,4 @@ Manufacturer:
 
 
 ---
-# Special 
+# Rulings

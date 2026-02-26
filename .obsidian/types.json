@@ -12,6 +12,7 @@
     "Designer": "multitext",
     "created": "date",
     "Wound Type": "multitext",
-    "Range": "multitext"
+    "Range": "multitext",
+    "Cover (AP)": "number"
   }
 }
