@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79cb0bd8973bb1ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K780D-4YM Disassembler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "K780D-4YM Disassembler"
-            }
-          },
-          {
             "id": "f59f561bd9cf9fa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ST-10 Staple Gun.md",
+                "file": "Soteira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ST-10 Staple Gun"
+              "title": "Soteira"
             }
           },
           {
@@ -226,24 +212,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "79cb0bd8973bb1ed",
+  "active": "f59f561bd9cf9fa3",
   "lastOpenFiles": [
-    "ST-12 C-FOAM Dispenser.md",
+    "The Soteira.md",
+    "Soteira.md",
     "ST-10 Staple Gun.md",
+    "/The Soteira.md",
     "K780D-4YM Disassembler.md",
+    "ST-12 C-FOAM Dispenser.md",
     "Templates/Firearm Template.md",
     "Templates/Melee Weapon Template.md",
     "Templates/Organisation Profile Template.md",
     "Templates/Technology Template.md",
     "2026-02-26.md",
     "Index.md",
-    "Soteira.md",
     "Bases",
     "Templates",
     "Sleepr.md",
     "Peregrine Group.md",
     "Lessee Manifest.md",
-    "/The Soteira.md",
     "Far-Space.md",
     "/Index.md",
     "/Far-Space.md"
