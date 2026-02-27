@@ -10,7 +10,7 @@ Wound Type:
 Price (cr): 90cr
 tags:
   - Firearm
-  - Utility
+  - Tool
 created: 2026-02-26
 Manufacturer: "[[Stitch’d]]"
 ---

@@ -10,12 +10,14 @@
         "K780D-4YM Disassembler.md",
         "ST-10 Staple Gun.md",
         "ST-12 C-FOAM Dispenser.md",
-        "CGx5 Slim Preservation Unit.md"
+        "CGx5 Slim Preservation Unit.md",
+        "Firearms Database.base"
       ],
       "sortOrder": "custom"
     },
     "Templates": {
       "children": [
+        "Templates/Food Template.md",
         "Templates/Entity Template.md",
         "Templates/Organisation Profile Template.md",
         "Templates/Melee Weapon Template.md",

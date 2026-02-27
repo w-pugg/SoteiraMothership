@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CGx5 Slim Preservation Unit.md",
+                "file": "ST-10 Staple Gun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CGx5 Slim Preservation Unit"
+              "title": "ST-10 Staple Gun"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Far-Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Far-Space"
             }
           }
         ],
@@ -256,16 +256,20 @@
   },
   "active": "4744e6e762679f36",
   "lastOpenFiles": [
-    "Untitled.md",
-    "CGx5 Slim Preservation Unit.md",
-    "Templates/Entity Template.md",
-    "ST-12 C-FOAM Dispenser.md",
-    "ST-10 Staple Gun.md",
-    "K780D-4YM Disassembler.md",
-    "Templates/Technology Template.md",
-    "Templates/Firearm Template.md",
     "Soteira.md",
     "Peregrine Group.md",
+    "K780D-4YM Disassembler.md",
+    "ST-10 Staple Gun.md",
+    "ST-12 C-FOAM Dispenser.md",
+    "CGx5 Slim Preservation Unit.md",
+    "Firearms Database.base",
+    "Templates/Food Template.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Close.md",
+    "Templates/Entity Template.md",
+    "Templates/Technology Template.md",
+    "Templates/Firearm Template.md",
     "Templates/Organisation Profile Template.md",
     "Templates/Melee Weapon Template.md",
     "Far-Space.md",
