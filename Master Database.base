@@ -1,0 +1,27 @@
+properties:
+  file.name:
+    displayName: Weapon Name
+  note.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Weapons List
+    filters:
+      and:
+        - categories == ["[[Weapon]]"]
+        - '!file.name.contains("Template")'
+    order:
+      - file.name
+      - Range
+      - Shots
+      - Damage
+      - Wound Type
+      - Manufacturer
+      - Price (cr)
+      - tags
+    sort:
+      - property: Damage
+        direction: ASC
+    cardSize: 140
+    imageFit: contain
+    imageAspectRatio: 0.75
