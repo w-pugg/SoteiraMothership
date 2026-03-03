@@ -6,13 +6,19 @@
     "corporations": "multitext",
     "people": "multitext",
     "categories": "multitext",
-    "Price": "text",
+    "Price": "number",
     "as": "datetime",
     "Proprietor": "multitext",
     "Designer": "multitext",
     "created": "date",
     "Wound Type": "multitext",
     "Range": "multitext",
-    "Cover (AP)": "number"
+    "Cover (AP)": "number",
+    "schemes": "multitext",
+    "plans": "multitext",
+    "age": "text",
+    "associations": "multitext",
+    "ov": "unknown",
+    "DMG": "text"
   }
 }

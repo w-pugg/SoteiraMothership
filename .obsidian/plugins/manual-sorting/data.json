@@ -2,27 +2,16 @@
   "customOrder": {
     "/": {
       "children": [
-        "Index.md",
-        "Templates",
-        "Soteira.md",
-        "Peregrine Group.md",
-        "Far-Space.md",
-        "Master Database.base",
-        "Humanity.md",
-        "K780D-4YM Disassembler.md",
-        "ST-10 Staple Gun.md",
-        "ST-12 C-FOAM Dispenser.md",
-        "CGx5 Slim Preservation Unit.md"
+        "Templates"
       ],
       "sortOrder": "custom"
     },
     "Templates": {
       "children": [
-        "Templates/Entity Template.md",
-        "Templates/Organisation Profile Template.md",
-        "Templates/Melee Weapon Template.md",
-        "Templates/Firearm Template.md",
-        "Templates/Technology Template.md"
+        "Templates/Location Template.md",
+        "Templates/Corporation Template.md",
+        "Templates/Person Template.md",
+        "Templates/Weapon Template.md"
       ],
       "sortOrder": "custom"
     }
