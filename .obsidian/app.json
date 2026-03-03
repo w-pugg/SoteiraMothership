@@ -3,6 +3,7 @@
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "userIgnoreFilters": [
+    "/Templates/",
     "Templates/"
   ]
 }

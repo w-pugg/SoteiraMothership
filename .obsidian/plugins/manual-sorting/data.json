@@ -3,7 +3,11 @@
     "/": {
       "children": [
         "Templates",
-        "Verdure.md"
+        "Verdure.md",
+        "VDR-Soteira.md",
+        "Troubleshooters.md",
+        "Commander Rachel Kilroy.md",
+        "Shells.md"
       ],
       "sortOrder": "custom"
     },

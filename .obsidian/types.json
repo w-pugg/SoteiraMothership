@@ -21,6 +21,7 @@
     "ov": "unknown",
     "DMG": "text",
     "body-part": "multitext",
-    "implant-location": "multitext"
+    "implant-location": "multitext",
+    "owner": "multitext"
   }
 }
