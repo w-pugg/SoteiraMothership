@@ -1,6 +1,0 @@
----
-categories:
-age:
-aliases:
-tags:
----
