@@ -19,6 +19,8 @@
     "age": "text",
     "associations": "multitext",
     "ov": "unknown",
-    "DMG": "text"
+    "DMG": "text",
+    "body-part": "multitext",
+    "implant-location": "multitext"
   }
 }

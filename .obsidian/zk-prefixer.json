@@ -1,3 +1,5 @@
 {
-  "folder": "/"
+  "folder": "/",
+  "format": "YYYY-MM-DD-HHmm",
+  "template": "Templates/Unique Note Template"
 }

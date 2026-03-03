@@ -2,16 +2,19 @@
   "customOrder": {
     "/": {
       "children": [
-        "Templates"
+        "Templates",
+        "Verdure.md"
       ],
       "sortOrder": "custom"
     },
     "Templates": {
       "children": [
+        "Templates/Unique Note Template.md",
         "Templates/Location Template.md",
         "Templates/Corporation Template.md",
         "Templates/Person Template.md",
-        "Templates/Weapon Template.md"
+        "Templates/Weapon Template.md",
+        "Templates/Cyberware Template.md"
       ],
       "sortOrder": "custom"
     }

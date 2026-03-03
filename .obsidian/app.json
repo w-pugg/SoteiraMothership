@@ -1,5 +1,8 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "livePreview": true
+  "livePreview": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
 }
