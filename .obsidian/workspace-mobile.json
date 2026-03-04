@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5361cfe970e14e9",
+            "id": "643a646ef25ba7f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shells.md",
+                "file": "VDR-Soteira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shells"
-            }
-          },
-          {
-            "id": "643a646ef25ba7f5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "VDR-Soteira"
             }
           }
         ]
@@ -208,11 +198,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b5361cfe970e14e9",
+  "active": "643a646ef25ba7f5",
   "lastOpenFiles": [
-    "Verdure.md",
     "Commander Rachel Kilroy.md",
     "Shells.md",
+    "Project Rebirth.md",
+    "Verdure.md",
+    "Project Phototropism.md",
+    "AntiSEC.md",
+    "/VDR-Soteira.md",
+    "/Commander Rachel Kilroy.md",
+    "/AntiSEC.md",
+    "/Shells.md",
     "Troubleshooters.md",
     "VDR-Soteira.md",
     "Templates/Weapon Template.md",
@@ -230,15 +227,8 @@
     "/Templates/Cyberware Template.md",
     "/Templates/Corporation Template.md",
     "/Templates",
-    "K780D-4YM Disassembler.md",
     "Master Database.base",
-    "/Soteira.md",
     "/Master Database.base",
-    "/K780D-4YM Disassembler.md",
-    "/Index.md",
-    "/CGx5 Slim Preservation Unit.md",
-    "/Peregrine Group.md",
-    "Soteira.md",
     "Bases/Master Database.base",
     "Untitled.base",
     "Clippings/Pasted image 20260228104219.png",
