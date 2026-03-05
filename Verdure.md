@@ -10,9 +10,11 @@ plans:
   - "[[Cybernetics]]"
 ---
 # Overview
+---
 Verdure is a biotech company with varying focuses including extreme botany, parasite research, neurobiology, and trans-humanist technology. The company is on the verge of a breakthrough into [[Shells]], manufactured bodies Verdure hopes consciousness can be imprinted into. 
 
 # List of Ongoing Projects
+---
 
 ### Major Projects
 - [[Project Rebirth]]

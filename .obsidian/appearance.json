@@ -1,4 +1,7 @@
 {
   "accentColor": "#f65713",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "HeaderMarginAdjustment"
+  ]
 }

@@ -10,7 +10,6 @@ The product of [[Project Rebirth]], successful Shells are manufactured bodies ca
 - Bursts of Anger
 - Claims of Dreaming
 - Localised Cellular Decay
-
----
 # Rules
+---
 

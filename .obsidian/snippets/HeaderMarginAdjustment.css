@@ -1,0 +1,11 @@
+.markdown-preview-view h1,
+.markdown-preview-view h2 {
+    margin-bottom: 0.2em;
+}
+
+.markdown-preview-view hr, hr {
+  border: none; /* Remove default border */
+  border-top: 1px solid #FFFFFF; /* Set a solid red top border (the line) */
+  margin-top: 0em; /* Adjust spacing above */
+  margin-bottom: 1em; /* Adjust spacing below */
+}
