@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "45f103a86cd89e43",
+    "id": "09c76668379251fc",
     "type": "split",
     "children": [
       {
-        "id": "e9ebcac7ef7e4e79",
+        "id": "5339d2d1443e543c",
         "type": "tabs",
         "children": [
           {
-            "id": "0d8a0a08124134fb",
+            "id": "d0071c055e7d67af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation.md",
+                "file": "Location Index and Brainstorm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "Location Index and Brainstorm"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "81aa6c7a6cc38534",
+    "id": "9f033ebcd3251b31",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ca39409cd1be92bb",
+        "id": "ca86330909d4df3c",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "66b1c71a42e2c36c",
+        "id": "b1a3d802599b9fbe",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "5b786a84ba814668",
+        "id": "2776b1e9de40969b",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "9f0a16a39f8da9e0",
+        "id": "9979e99d6481b4cb",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +90,7 @@
         }
       },
       {
-        "id": "6a0c5e81418caee0",
+        "id": "a207e74253eca66f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,11 +103,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "de60f5f71744f99b",
+    "id": "c14ee3fec2154f68",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "91b6460b26f6b66e",
+        "id": "67a3c2ec26dfc156",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -125,7 +125,7 @@
         }
       },
       {
-        "id": "a07ca33c9a5f7e3c",
+        "id": "d95385e2702a5bb0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -138,12 +138,11 @@
         }
       },
       {
-        "id": "c451ec7653c53fc1",
+        "id": "2f472496f41d712c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Technology Template.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,7 +152,7 @@
         }
       },
       {
-        "id": "027f66215dff3f3c",
+        "id": "f12971b70f5860cc",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -163,17 +162,7 @@
         }
       },
       {
-        "id": "9b5289c35ca5d121",
-        "type": "leaf",
-        "state": {
-          "type": "DICE_ROLLER_VIEW",
-          "state": {},
-          "icon": "dices",
-          "title": "Dice Tray"
-        }
-      },
-      {
-        "id": "b46b2d075b41c049",
+        "id": "5669a708573aa5df",
         "type": "leaf",
         "state": {
           "type": "git-history-view",
@@ -181,12 +170,23 @@
           "icon": "history",
           "title": "History"
         }
+      },
+      {
+        "id": "1bda518fee7e7547",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
       }
     ],
     "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,48 +194,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d8a0a08124134fb",
+  "active": "d0071c055e7d67af",
   "lastOpenFiles": [
+    "Location Index and Brainstorm.md",
+    "Soteira.md",
+    "CGx5 Slimmed Preservation Unit.md",
+    "Verdure.md",
+    "VDR-Soteira.md",
+    "Templates/Weapon Template.md",
+    "Templates/Unique Note Template.md",
+    "Templates/Person Template.md",
+    "Templates/Location Template.md",
+    "Templates/Cyberware Template.md",
+    "Shells.md",
+    "Project Rebirth.md",
+    "Commander Rachel Kilroy.md",
     "Character Creation.md",
     "AntiSEC.md",
-    "Project Rebirth.md",
-    "VDR-Soteira.md",
     "/Verdure.md",
     "/VDR-Soteira.md",
-    "/Shells.md",
-    "/Commander Rachel Kilroy.md",
-    "/Character Creation.md",
-    "/AntiSEC.md",
-    "Commander Rachel Kilroy.md",
-    "Shells.md",
-    "Verdure.md",
-    "Project Phototropism.md",
-    "Troubleshooters.md",
-    "Templates/Weapon Template.md",
-    "Index.md",
-    "Templates/Corporation Template.md",
-    "Templates/Location Template.md",
-    "Templates/Person Template.md",
-    "Templates/Unique Note Template.md",
-    "Templates/Cyberware Template.md",
     "/Templates/Weapon Template.md",
     "/Templates/Unique Note Template.md",
     "/Templates/Person Template.md",
     "/Templates/Location Template.md",
+    "/Templates/Cyberware Template.md",
+    "/Templates/Corporation Template.md",
+    "Templates/Corporation Template.md",
     "/Templates",
-    "Master Database.base",
-    "/Master Database.base",
-    "Bases/Master Database.base",
-    "Untitled.base",
-    "Clippings/Pasted image 20260228104219.png",
-    "Clippings/Tile Map - CGx5 Slim Preservation Unit.png",
-    "Clippings/Tile Map - CGx5 Slim Preservation Unit.jpg",
-    "Clippings",
-    "Bases",
+    "/Shells.md",
+    "/Project Rebirth.md",
     "Templates"
   ]
 }
