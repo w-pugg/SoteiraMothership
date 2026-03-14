@@ -22,6 +22,8 @@
     "DMG": "text",
     "body-part": "multitext",
     "implant-location": "multitext",
-    "owner": "multitext"
+    "owner": "multitext",
+    "sector": "text",
+    "Connects to": "multitext"
   }
 }

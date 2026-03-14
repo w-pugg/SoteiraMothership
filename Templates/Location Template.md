@@ -4,5 +4,8 @@ tags:
 size:
 gravity:
 habitability:
-visibility:
+visibility 1-5:
+sector:
+Connects to:
+aliases:
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Location Index and Brainstorm.md",
+                "file": "IOh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Location Index and Brainstorm"
+              "title": "IOh"
             }
           }
         ]
@@ -199,7 +199,12 @@
   },
   "active": "d0071c055e7d67af",
   "lastOpenFiles": [
+    "SENTINEL.md",
+    "IOh.md",
+    "The Homoetum.md",
+    "Templates/Location Template.md",
     "Location Index and Brainstorm.md",
+    "Untitled.md",
     "Soteira.md",
     "CGx5 Slimmed Preservation Unit.md",
     "Verdure.md",
@@ -207,7 +212,6 @@
     "Templates/Weapon Template.md",
     "Templates/Unique Note Template.md",
     "Templates/Person Template.md",
-    "Templates/Location Template.md",
     "Templates/Cyberware Template.md",
     "Shells.md",
     "Project Rebirth.md",
@@ -221,11 +225,7 @@
     "/Templates/Person Template.md",
     "/Templates/Location Template.md",
     "/Templates/Cyberware Template.md",
-    "/Templates/Corporation Template.md",
-    "Templates/Corporation Template.md",
     "/Templates",
-    "/Shells.md",
-    "/Project Rebirth.md",
     "Templates"
   ]
 }
