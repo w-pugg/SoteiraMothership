@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation.md",
-                "mode": "preview",
+                "file": "IOh.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "IOh"
             }
           },
           {
@@ -252,12 +252,16 @@
   },
   "active": "b3e58de31fa1dcb8",
   "lastOpenFiles": [
+    "Location Index and Brainstorm.md",
+    "The Homoetum.md",
+    "SENTINEL.md",
+    "IOh.md",
+    "Character Creation.md",
     "Verdure.md",
     "VDR-Soteira.md",
     "AntiSEC.md",
     "Commander Rachel Kilroy.md",
     "Shells.md",
-    "Character Creation.md",
     "Project Rebirth.md",
     "Templates/Unique Note Template.md",
     "2026-03-03-2351.md",
@@ -277,10 +281,6 @@
     "Index.md",
     "Humanity.md",
     "Master Database.base",
-    "ST-12 C-FOAM Dispenser.md",
-    "ST-10 Staple Gun.md",
-    "Far-Space.md",
-    "Soteira.md",
     "Firearms Database.base",
     "Templates",
     "Organisations.base",

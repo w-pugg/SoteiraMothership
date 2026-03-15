@@ -10,4 +10,4 @@ associations:
   - "[[Verdure]]"
   - "[[interested party]]"
 ---
-The !! seemingly omniscient organic mass Soteira's operations. IOh and its siblings are the product of a fateful mistake, 
+A seemingly omniscient organic mass developed by and operating as an advisor for Soteira's operations and management division. IOh and its siblings are the product of a fateful mistake,
