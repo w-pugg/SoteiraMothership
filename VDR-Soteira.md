@@ -2,9 +2,13 @@
 created: 2026-03-03
 tags:
   - vessel
+aliases:
+  - Soteira
 owner:
   - "[[Verdure]]"
 people:
+  - "[[IOh]]"
+  - "[[SENTINEL]]"
 ---
 # Current State
 ---

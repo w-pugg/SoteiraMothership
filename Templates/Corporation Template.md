@@ -4,4 +4,3 @@ tags:
 people:
 plans:
 ---
-c

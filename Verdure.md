@@ -21,7 +21,7 @@ Verdure is a biotech company with varying focuses including extreme botany, para
 > A promising research effort investigating immortality and the human seat of consciousness. 
 
 - [[Project Cage]]
-> A xenobiology scheme focused on harmonising humanity with extraterrestrial parasitic organisms.
+> A xenobiology scheme focused on harmonizing humanity with extraterrestrial parasitic organisms.
 
 - [[Project Verdant]]
 > Verdure’s namesake project perpetually developing methods of prolonged space habitation through botanical means.

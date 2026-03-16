@@ -6,8 +6,6 @@ people:
 plans:
   - "[[Siege of Soteira]]"
 ---
-# Overview
----
-AntiSEC are a crab bucket paramilitary of mercenaries with very little formal leadership. The organisation is currently headed by a [[Commander Rachel Kilroy]] and orders are generally carried out by a menagerie of minor commanding officers. 
+AntiSEC are a crab-bucket paramilitary of mercenaries with very little formal leadership. The organisation is currently headed by a [[Commander Rachel Kilroy]] and contracts are generally executed by a menagerie of minor commanding officers. 
 
-With a contract from [[Anonymous Competing Corporation]], a majority of AntiSEC's forces are currently sieging the [[VDR-Soteira]] attempting to steal corporate data. 
+With a contract from [[Anonymous Competing Corporation]], a majority of AntiSEC's forces are currently sieging the [[VDR-Soteira]] attempting to purge corporate secrets. 

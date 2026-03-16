@@ -7,7 +7,3 @@ DMG:
 Wound Type:
 Price (kCr):
 ---
-# Overview
-
----
-# Rules
