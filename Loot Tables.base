@@ -12,10 +12,18 @@ views:
       - DMG
       - Wound Type
       - Price
+    sort:
+      - property: Price
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: Range
+        direction: ASC
     cardSize: 170
     imageAspectRatio: 1.15
     columnSize:
       file.name: 272
-      note.tags: 385
+      note.tags: 318
       note.DMG: 86
       note.Wound Type: 126
+      note.Price: 80
