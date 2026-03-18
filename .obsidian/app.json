@@ -4,6 +4,7 @@
   "livePreview": true,
   "userIgnoreFilters": [
     "Templates/",
-    "Rules Blocks/"
+    "Rules Blocks/",
+    "Excalidraw/"
   ]
 }

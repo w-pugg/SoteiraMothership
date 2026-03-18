@@ -4,6 +4,7 @@
       "children": [
         "Templates",
         "Rules Blocks",
+        "Excalidraw",
         "Verdure.md",
         "VDR-Soteira.md",
         "AntiSEC.md",
@@ -28,14 +29,13 @@
         "Radiation Pills.md",
         "NEWral.md",
         "Cryovault B0303.md",
-        "Excalidraw"
+        "Hello - Rename.md"
       ],
       "sortOrder": "custom"
     },
     "Excalidraw": {
       "children": [
         "Excalidraw/Mapping Key.excalidraw.md",
-        "Excalidraw/Drawing 2026-03-18 20.58.52.excalidraw.md",
         "Excalidraw/VDR-Soteira Map.excalidraw.md"
       ],
       "sortOrder": "custom"
