@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "userIgnoreFilters": [
-    "/Templates/",
-    "Templates/"
+    "Templates/",
+    "Rules Blocks/"
   ]
 }

@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Equipment
+    filters:
+      and:
+        - file.tags.contains("equipment")
+    order:
+      - file.name
+      - tags
+      - Designer
+      - Range
+      - DMG
+      - Wound Type
+      - Price
+    cardSize: 170
+    imageAspectRatio: 1.15
+    columnSize:
+      file.name: 272
+      note.tags: 385
+      note.DMG: 86
+      note.Wound Type: 126

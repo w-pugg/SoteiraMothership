@@ -3,17 +3,37 @@
     "/": {
       "children": [
         "Templates",
+        "Rules Blocks",
         "Verdure.md",
         "VDR-Soteira.md",
         "AntiSEC.md",
         "Commander Rachel Kilroy.md",
         "Shells.md",
         "Project Rebirth.md",
-        "Character Creation.md",
         "Location Index and Brainstorm.md",
         "The Homoetum.md",
         "SENTINEL.md",
-        "IOh.md"
+        "IOh.md",
+        "Assorted Tools.md",
+        "Stimpak.md",
+        "Rucksack.md",
+        "Loot Tables.base",
+        "Crowbar.md",
+        "First Aid Kit.md",
+        "Mag-Boots.md",
+        "Bioscanner.md",
+        "Flashlight.md",
+        "Electronic Tool Set.md",
+        "Paracord (50m).md",
+        "Radiation Pills.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rules Blocks": {
+      "children": [
+        "Rules Blocks/Ranges.md",
+        "Rules Blocks/Character Creation.md",
+        "Rules Blocks/Wound Types.md"
       ],
       "sortOrder": "custom"
     },
@@ -24,7 +44,9 @@
         "Templates/Corporation Template.md",
         "Templates/Person Template.md",
         "Templates/Weapon Template.md",
-        "Templates/Cyberware Template.md"
+        "Templates/Equipment Template.md",
+        "Templates/Cyberware Template.md",
+        "Templates/Rules Template.md"
       ],
       "sortOrder": "custom"
     }

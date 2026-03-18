@@ -24,6 +24,9 @@
     "implant-location": "multitext",
     "owner": "multitext",
     "sector": "text",
-    "Connects to": "multitext"
+    "Connects to": "multitext",
+    "category": "multitext",
+    "a": "multitext",
+    "Ammunition": "multitext"
   }
 }

@@ -2,6 +2,9 @@
 created: 2026-03-03
 tags:
   - administration
+  - rules
+category:
+  - "[[Character]]"
 ---
 ## Step 1 - *Roll Stats*
 ---

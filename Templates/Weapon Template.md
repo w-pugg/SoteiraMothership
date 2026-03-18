@@ -5,5 +5,5 @@ Designer:
 Range:
 DMG:
 Wound Type:
-Price (kCr):
+Price:
 ---

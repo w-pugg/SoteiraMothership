@@ -8,10 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"tags\":corporation]",
+      "query": "tag:#corporation  ",
       "color": {
         "a": 1,
-        "rgb": 15564414
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#equipment  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#location  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#vessel  ",
+      "color": {
+        "a": 1,
+        "rgb": 3692314
+      }
+    },
+    {
+      "query": "tag:#person  ",
+      "color": {
+        "a": 1,
+        "rgb": 7645183
       }
     }
   ],
@@ -25,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6316046762907496,
-  "close": true
+  "scale": 1.4517053871835868,
+  "close": false
 }
