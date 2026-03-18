@@ -7,4 +7,4 @@ aliases:
 Designer:
 Price: 10
 ---
-General purpose lightweight nylon rope.
+Twenty meters of general purpose lightweight nylon rope.

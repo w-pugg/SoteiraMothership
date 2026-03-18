@@ -3,6 +3,7 @@ created: 2026-03-03
 tags:
   - equipment
   - medical
+  - consumable
 aliases:
   - Med-Kit
 Designer:

@@ -3,12 +3,13 @@ created: 2026-03-03
 tags:
   - equipment
   - medical
+  - consumable
 aliases:
   - Stim
 Designer:
 Price: 1000
 ---
-> A single-use, needle-administered, handheld medical device.
+> A single use, needle administered, handheld medical device.
 
 Cures Cryosickness.
 Reduces Stress by 1.
