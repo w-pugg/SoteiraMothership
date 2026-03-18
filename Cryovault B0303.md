@@ -9,5 +9,4 @@ habitability: Habitable
 visibility 1-5: "[[2 - Dimly Lit]]"
 sector: "[[Starboard Cryogenic Cluster]]"
 Connects to:
-  - "[[Sealed Airlock B260303]]"
 ---

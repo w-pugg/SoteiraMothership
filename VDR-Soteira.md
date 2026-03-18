@@ -10,12 +10,17 @@ people:
   - "[[IOh]]"
   - "[[SENTINEL]]"
 ---
-# Current State
+# 
+Current State
 ---
->The Soteira has been tracked and assaulted by the [[AntiSEC]]; a mercenary group hired by an anonymous competing corporation.
->A militia has attempted to board the vessel through a multitude of methods with varying degrees of success. Countermeasures have been employed.
-# Overview
----
-The VDR-Soteira is [[Verdure]]’s elusive flagship research vessel. A phantom that the few far-space veterans tell drunken stories about. The Soteira can spend decades at a time skirting the edges of the [[far-space]], periodically stopping where necessary, and very rarely turning up anywhere near a core system.
+>The Soteira has been tracked and assaulted by several high-power [[AntiSEC]] vessels. 
+>Squads of militia have attempted to board via several dedicated and manufactured methods. Countermeasures have been deployed by [[Verdure]] employees. 
+>
+>The siege went terribly, and has resulted in most of the AntiSEC forces retreating where possible. Verdure forces are scattered due to unforeseen circumstances.
 
-Many of Verdure’s cutting edge projects are in active development aboard Soteira, most notably of which is [[Project Rebirth]] reaching a climactic breakthrough. Due to the sensitivity of the undertakings aboard the vessel, competitors and opportunists alike thirsty for knowledge or a hefty payday have spent a considerable sum of resources attempting to hunt down and commandeer this prize beast. 
+
+![[Drawing 2026-03-18 20.51.01.excalidraw]]
+
+## Research Capabilities
+---
+Soteira is first and foremost a research vessel. The ship contains numerous state of the art laboratories each fitted with specialised use cases in mind. 
