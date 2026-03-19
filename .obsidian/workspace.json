@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "9604e99ab856764f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Mapping Key.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Mapping Key.excalidraw"
-            }
-          },
-          {
             "id": "ab53cf661b12207c",
             "type": "leaf",
             "state": {
@@ -48,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "b9b3378d9f2187d1",
@@ -59,10 +47,14 @@
             "id": "c993813ac51dbbfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SENTINEL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SENTINEL"
             }
           }
         ]
@@ -271,11 +263,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ab53cf661b12207c",
+  "active": "c993813ac51dbbfc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-03-19 10.07.08.excalidraw.md",
-    "Excalidraw/Mapping Key.excalidraw.md",
     "VDR-Soteira.md",
+    "SENTINEL.md",
+    "Rucksack.md",
+    "Assorted Tools.md",
+    "Excalidraw/Mapping Key.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-19 10.07.08.excalidraw.md",
     "Excalidraw/VDR-Soteira Map.excalidraw.md",
     "Hello - Rename.md",
     "Stimpak.md",
@@ -291,7 +286,6 @@
     "First Aid Kit.md",
     "Crowbar.md",
     "Bioscanner.md",
-    "Rucksack.md",
     "Templates/Rules Template.md",
     "Templates/Equipment Template.md",
     "Rules Blocks/Wound Types.md",
@@ -300,8 +294,6 @@
     "Rules Blocks",
     "Mag-Boots.md",
     "Flashlight.md",
-    "Electronic Tool Set.md",
-    "Assorted Tools.md",
     "Templates/Untitled",
     "Templates",
     "Master Database.base",
